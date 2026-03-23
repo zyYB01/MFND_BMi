@@ -14,7 +14,7 @@ from bmi.metrics import pearson_corrcoef
 import time as timer
 import os
 import pickle
-from my_model_MLP import CNN_lstm_v2_lfp_f, CNN_lstm_v2_lfp_ff_attention
+from my_model import CNN_lstm_v2_lfp_f, CNN_lstm_v2_lfp_ff_attention
 import numpy as np
 
 import xlrd
